@@ -5,9 +5,6 @@ __pycache__/
 *.pyd
 *.pyc
 
-# misc
-project5.md
-
 # Virtual environment
 .ai201proj5
 venv/

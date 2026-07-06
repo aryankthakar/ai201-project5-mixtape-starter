@@ -277,4 +277,4 @@ rating, which matches `add_to_playlist`'s existing behavior (neither function de
 is consistent with the established pattern rather than a new inconsistency.
 
 ## Screenshot of `git log --online`
-![bugfix-mixtape](/ai201-project5-mixtape-starter/bugfix-mixtape.png)
+![bugfix-mixtape](bugfix-mixtape.png)
