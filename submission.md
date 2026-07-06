@@ -275,3 +275,6 @@ creates exactly one notification with correct content; a user rating **their own
 still rejected before any notification is created. The re-rate path sends a notification on each
 rating, which matches `add_to_playlist`'s existing behavior (neither function deduplicates), so this
 is consistent with the established pattern rather than a new inconsistency.
+
+## Screenshot of `git log --online`
+![bugfix-mixtape](/ai201-project5-mixtape-starter/bugfix-mixtape.png)
